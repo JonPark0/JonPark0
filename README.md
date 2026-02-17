@@ -30,9 +30,9 @@ I design components with 3D printing constraints in mind, and I've built custom 
 I build full-stack web applications, preferring TypeScript with React and packaging everything with Docker Compose. I've developed and currently maintain several client sites.
 
 **Self-hosted Infrastructure**  
-I run a home server with a dedicated network setup and host my own services, including a personal Forgejo instance at [git.palnarium.com](https://git.palnarium.com) for version control and data sovereignty.
+I run a home server with a dedicated network setup and host my own services, including a personal Forgejo instance at [git.palnarium.com](https://git.palnarium.com/jonpark0) for version control and data sovereignty.
 
 
 ## Contact
 
-You can reach me through [git.palnarium.com](https://git.palnarium.com).
+You can reach me through my Forgejo profile in [git.palnarium.com](https://git.palnarium.com/jonpark0).
