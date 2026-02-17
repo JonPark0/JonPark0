@@ -3,8 +3,6 @@
 Robotics Engineering student at Incheon National University, majoring in Mechatronics.  
 I work across mechanical design, embedded systems, and web development.
 
----
-
 ## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
