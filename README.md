@@ -38,6 +38,7 @@ Please visit **[git.palnarium.com/jonpark0](https://git.palnarium.com/jonpark0)*
 ### 🛠 Skills & Tools
 
 **Languages**  
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
